@@ -1,0 +1,23 @@
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven_pbo_bonus.Form1.resources
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.AssemblyInfo.cs
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\steven pbo bonus.exe
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\steven pbo bonus.deps.json
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\steven pbo bonus.runtimeconfig.json
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\steven pbo bonus.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\steven pbo bonus.pdb
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven_pbo_bonus.Form2.resources
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven_pbo_bonus.Form3.resources
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.csproj.CopyComplete
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\refint\steven pbo bonus.dll
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.pdb
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\steven pbo bonus.genruntimeconfig.cache
+C:\Users\admin\source\repos\steven pbo bonus\steven pbo bonus\obj\Debug\net6.0-windows\ref\steven pbo bonus.dll
